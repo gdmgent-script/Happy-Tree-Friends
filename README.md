@@ -8,7 +8,7 @@
 - Solution ***solution***
 
 
-Excercise - normal
+Excercise - Guided
 -------
 
 Download de broncode voor deze oefening. [BronCode](./assets/startcode_happy_tree_friends.zip)
