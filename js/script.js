@@ -76,8 +76,10 @@ var urlSuffix = ".png";
 
 
 // initialize an empty array that will contain the active blocks
-for(var i = 0; i < blocks.length; i++) {
+var activeBlocks = [];
+
 // loop through each block to add functionality
+for(var i = 0; i < blocks.length; i++) {
   // combine url
   // add the background image to each block + add a class
 
