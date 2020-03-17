@@ -60,6 +60,7 @@ var holdOn = false;
 
 // initialize an empty array that will contain the active blocks
   
+
 // loop through each block to add functionality
     // combine url
     // add the background image to each block + add a class
