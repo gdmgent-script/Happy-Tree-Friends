@@ -11,7 +11,7 @@
 Excercise - normal
 -------
 
-Download de broncode voor deze oefening. [BronCode](./assets/startcode_happy_tree_friends.zip)
+Download de broncode voor deze oefening. [BronCode](./assets/startcode_happy_tree_friends.zip){: download }
 
 ![Image result Happy Tree Friends](./assets/screen_happyTreeFriends.png)
 
